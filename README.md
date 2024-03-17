@@ -82,7 +82,7 @@ sudo apt install build-essential -y
 wget https://us.download.nvidia.com/XFree86/Linux-x86_64/525.85.05/NVIDIA-Linux-x86_64-525.85.05.run
 chmod +x NVIDIA-Linux-x86_64-525.85.05.run
 sudo ./NVIDIA-Linux-x86_64-525.85.05.run
-
+```
 
 1. Install Isaac Sim 2022.2.1 - as this is the latest version of the simulator on which streaming was successful
 
