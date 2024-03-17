@@ -14,7 +14,7 @@ There are 3 ways to stream images from a remote server:
 If you opened this guide, most likely the [main instruction](https://docs.omniverse.nvidia.com/isaacsim/latest/installation/manual_livestream_clients.html) on the Nvidia website did not help you, so here I will tell you what I managed to learn by trial and error 
 :::
 
-## Mandatory Graphics Card Requirements
+## Minimal Graphics Card Requirements
 
 
 :::warning
